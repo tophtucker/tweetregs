@@ -2,6 +2,7 @@ Irritating conferences/events
 -----------------------------------
 - (\s|#)(ces|Ces|CES)
 - (\s|#)(sxsw|Sxsw|SXSW)
+- (\s|#)(crunchies|Crunchies|CRUNCHIES)
 
 People re-tweeting things you didn't read last time they tweeted it
 -------------
