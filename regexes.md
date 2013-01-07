@@ -25,7 +25,7 @@ Four or more hashtags in single tweet
 - #[^#]+#[^#]+#
 
 Tweets to you containing only a link
--------------
+--------------
 - ^@pkedrosky *https?://[^ ]+$
 
 Tweets containing over-repeated characters
