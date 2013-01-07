@@ -8,7 +8,7 @@ People re-tweeting things you didn't read last time they tweeted it
 -------------
 - (?i)(in.*case|if).*you.*missed.*it
 
-Plaintive requests for folows
+Plaintive requests for follows
 -------------
 - (?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)
 
