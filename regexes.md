@@ -1,11 +1,11 @@
 Irritating conferences/events
 -----------------------------------
-(\s|#)(ces|Ces|CES)
-(\s|#)(sxsw|Sxsw|SXSW)
+- (\s|#)(ces|Ces|CES)
+- (\s|#)(sxsw|Sxsw|SXSW)
 
 People re-tweeting things you didn't read last time they tweeted it
 -------------
-(?i)(in.*case|if).*you.*missed.*it
+- (?i)(in.*case|if).*you.*missed.*it
 
 Plaintive requests for folows
 -------------
@@ -21,16 +21,16 @@ Giant hashtags
 
 Four or more hashtags in single tweet
 -------------
-#[^#]+#[^#]+#
+- #[^#]+#[^#]+#
 
 Tweets to you containing only a link
 -------------
-^@pkedrosky *https?://[^ ]+$
+- ^@pkedrosky *https?://[^ ]+$
 
 Tweets containing over-repeated characters
 -------------
-([a-z])/1{4}
+- ([a-z])/1{4}
 
 Retweet cascades
 -------------
-RT[^RT]+RT
+- RT[^RT]+RT
