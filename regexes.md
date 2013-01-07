@@ -9,15 +9,15 @@ People re-tweeting things you didn't read last time they tweeted it
 
 Plaintive requests for folows
 -------------
-(?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)
+- (?i)please.*(\bwatch\b|\bfollow\b)|(\bwatch\b|\bfollow\b).*(me|please|back)
 
 Tweets mentioning four or more other people
 -------------
-@[^@]+@[^@]+@[^@]+@
+- @[^@]+@[^@]+@[^@]+@
 
 Giant hashtags
 -------------
-#[^ ]{15}
+- #[^ ]{15}
 
 Four or more hashtags in single tweet
 -------------
