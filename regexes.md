@@ -38,9 +38,9 @@ Retweet cascades
 
 Lance Armstrong-related stuff
 -------------
-@?[Ll]ance\s?[Aa]rmstrong
+- @?[Ll]ance\s?[Aa]rmstrong
 
 Tech geekery
 -------------
-[Ss]ocial\s[Gg]raph
-[Gg]raph\s?[Ss]earch
+- [Ss]ocial\s[Gg]raph
+- [Gg]raph\s?[Ss]earch 
