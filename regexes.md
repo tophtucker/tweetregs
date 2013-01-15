@@ -35,3 +35,7 @@ Tweets containing over-repeated characters
 Retweet cascades
 -------------
 - RT[^RT]+RT
+
+Lance Armstrong-related stuff
+-------------
+@?[Ll]ance\s?[Aa]rmstrong
