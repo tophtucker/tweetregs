@@ -36,7 +36,7 @@ Retweet cascades
 -------------
 - RT[^RT]+RT
 
-Lance Armstrong-related stuff
+Annoying people
 -------------
 - @?[Ll]ance\s?[Aa]rmstrong
 
