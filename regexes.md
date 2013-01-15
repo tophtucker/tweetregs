@@ -39,3 +39,7 @@ Retweet cascades
 Lance Armstrong-related stuff
 -------------
 @?[Ll]ance\s?[Aa]rmstrong
+
+Tech geekery
+-------------
+[Ss]ocial\s[Gg]raph
