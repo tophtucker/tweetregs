@@ -42,5 +42,5 @@ Lance Armstrong-related stuff
 
 Tech geekery
 -------------
-- [Ss]ocial\s[Gg]raph
+- [Ss]ocial\s?[Gg]raph
 - [Gg]raph\s?[Ss]earch 
