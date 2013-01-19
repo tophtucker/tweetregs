@@ -36,6 +36,10 @@ Retweet cascades
 -------------
 - RT[^RT]+RT
 
+Public conversations that have nothing to do with you
+-------------
+- ^\.@\w+\s+[A-Z]
+
 Annoying people
 -------------
 - @?[Ll]ance\s?[Aa]rmstrong
