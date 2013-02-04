@@ -48,3 +48,7 @@ Tech geekery
 -------------
 - [Ss]ocial\s?[Gg]raph
 - [Gg]raph\s?[Ss]earch 
+
+Superbowl silliness
+-------------
+- (?i)(super ?bowls?|49ers|ravens|foot ?ball|half ?times?|kick ?off|touch ?downs?|field ?goals?|NFL|(first|second|third|fourth) quarters?|over ?times?|final scores)
