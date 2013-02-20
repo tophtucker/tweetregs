@@ -1,10 +1,11 @@
-Irritating conferences/events
+Conferences/events
 -----------------------------------
 - (\s|#)(ces|Ces|CES)
 - (\s|#)(sxsw|Sxsw|SXSW)
 - (\s|#)(crunchies|Crunchies|CRUNCHIES)
+- (\s|#)(ted|Ted|TED/d{4})
 
-People re-tweeting things you didn't read last time they tweeted it
+People re-tweeting things you ignored the last time they tweeted it
 -------------
 - (?i)(in.*case|if).*you.*missed.*it
 
@@ -49,6 +50,9 @@ Tech geekery
 - [Ss]ocial\s?[Gg]raph
 - [Gg]raph\s?[Ss]earch 
 - [Bb]ig\s?[Dd]ata
+
+Not so humble brags
+- (?i)(swag|yolo)
 
 Superbowl silliness
 -------------
