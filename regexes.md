@@ -1,9 +1,10 @@
 Conferences/events
 -----------------------------------
-- (\s|#)(ces|Ces|CES)
-- (\s|#)(sxsw|Sxsw|SXSW)
-- (\s|#)(crunchies|Crunchies|CRUNCHIES)
-- (\s|#)(ted|Ted|TED/d{4})
+- (?i)(\s|#)(ces)
+- (?i)(\s|#)(sxsw)
+- (?i)(\s|#)(crunchies)
+- (?i)(#?\bted(\d{4})?\b|long beach)
+- (?i)#?oscars?|award|nomination|speech|best picture|actor|actress|(S|s)eth ?(MacFarlane|McFarlane)|Fonda|Nicholson
 
 People re-tweeting things you ignored the last time they tweeted it
 -------------
