@@ -2,6 +2,7 @@ Tweetbot deeplink syntax
 ----------
 - tweetbot:///mute/keyword?mentions=1&text=9to5mac
 - http://tapbots.com/tweetbot/mute?url=tweetbot%3A%2F%2F%2Fmute%2Fkeyword%3Fregex%3D1%26text%3D%2528%253Fi%2529%2523%253Foscars%253F
+
 Not sure what the functional difference is.
 
 Favorites
